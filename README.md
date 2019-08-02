@@ -3,7 +3,9 @@
 ## [Link do Curso](https://cursos.alura.com.br/course/estatistica-distribuicoes-e-medidas)
 
 ## Qual é o seu tipo de dado ?
-Conhecendo os dados.
+Conhecendo os dados
+Microdado = entrevista.
+
 
 ## Distribuição de Frequência.
 Histogramas
@@ -16,6 +18,7 @@ Média, mediana, moda.
 
 ## Medidas de dispersão.
 Desvio médio, variância e desvio padrão.
+
 ## Projeto Final.
 
 
